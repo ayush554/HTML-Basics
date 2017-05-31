@@ -1,0 +1,22 @@
+h1{text-align:center;
+font-size:100px;}
+#f
+{bottom:0;
+position:fixed;
+height:44px;
+width:1360px;
+margin-left:-10px;
+background-color:#EDEDED;
+margin-top:169px;
+border: 2px solid #EDEDED;
+color:#585046;
+font-weight:Bold;
+font-size:13px;
+text-align:center;
+font-family:sans-serif;
+}
+a:link{color:#585046;
+text-decoration:none;}
+a:hover{color:#585046;
+text-decoration:underline;}
+a:visited{color:#585046;}
